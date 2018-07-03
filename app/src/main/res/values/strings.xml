@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Matefacil</string>
+    <string name="app_welcome">¡Bienvenido!</string>
+    <string name="app_description">¡Aprende los fundamentos de matematicas necesarios para mejorar tu desempeño academico!</string>
+
+    <string name="activity_welcome_btncontinue">Continuar</string>
+
+    <string name="activity_main_title">Menu de contenidos</string>
+
+    <string name="nav_action_open">Abrir navegacion</string>
+    <string name="nav_action_close">Cerrar navegacion</string>
+    <string name="nav_action_home">Inicio</string>
+    <string name="nav_action_difcalc">Calculo diferencial</string>
+    <string name="nav_action_intcalc">Calculo integral</string>
+
+    <string name="action_settings">Preferencias</string>
+</resources>
